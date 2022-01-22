@@ -1,0 +1,17 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">/home/sanjay/.cache/JetBrains/Rider2021.3/resharper-host/temp/Rider/vAny/CoverageData/_Habits.994082274/Snapshot/snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=529fb0e9_002Db7be_002D4d9b_002Db9a2_002D67da7a312d41/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ShouldNotReturnDeletedHabit" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;ProjectFile&gt;506F91B8-8CCF-49CC-8412-06F375E20193/f:HabitsServiceUnitTests.cs&lt;/ProjectFile&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d77a92fd_002Df9ef_002D499b_002D8c3c_002D621de7c85354/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="HabitServiceTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;xUnit::4CA70E29-B33A-44A0-B128-033CFFE56DE4::net6.0::Habits.Core.UnitTests.HabitServiceTests&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+    &lt;Project Location="/home/sanjay/RiderProjects/Habits/Habits.Infrastructure.Tests" Presentation="&amp;lt;Habits.Infrastructure.Tests&amp;gt;" /&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=everymonth/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=everyselectweekdayshabit/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=everyweek/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=everyxdayshabit/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>
